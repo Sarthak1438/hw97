@@ -1,0 +1,22 @@
+#Screen{
+    width: 50%;
+    height: 310px;
+}
+body{
+   background-color:#FF4081 ; 
+}
+#log{
+    background-color: #FFEE58;
+}
+#msg{
+    margin: 1.2%;
+}
+#hh{
+    color:white;
+}
+#se{
+    background-color: #FFEE58;
+}
+#s{
+    color: white;
+}

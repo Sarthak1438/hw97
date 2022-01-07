@@ -1,0 +1,30 @@
+#chat{
+    width: 50%;
+    height: 310px;
+}
+#logout{
+    background-color: #F06292;
+    height: 40px;
+    width: 125px;
+}
+#aroom{
+    color: #FFEE58;
+}
+#rooma{
+    background-color: #F06292;
+    height: 40px;
+    width: 125px;
+}
+#troom{
+    color: #FFEE58;
+}
+#lts{
+    color: #FFEE58;
+}
+body{
+    background-color: #E64A19;
+
+}
+#user_name{
+    color: #F06292;
+}

@@ -1,0 +1,22 @@
+body
+{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+ 
+}
+#user_name{
+    width:30% ;
+    margin-top: 30px;
+  margin-bottom: 5px;
+}
+#h{
+    color: orangered;
+    margin-bottom: 5%;
+}
+#login_button{
+    width: 30%;
+    background-color: orangered;
+}
+#letschat{
+    width: 50%;
+    height: 310px;
+}
